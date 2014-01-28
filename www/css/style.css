@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+section#container {
+    width: 680px;
+    margin: auto;
+}
+
+.hint {
+    font-style: italic;
+}
